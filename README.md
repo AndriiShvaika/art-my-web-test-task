@@ -1,6 +1,6 @@
 # Art My Web test task
 
-Link to the site: https://wonderful-marzipan-1f12c1.netlify.app/users
+Link to the site: https://golden-medovik-4d75fb.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
